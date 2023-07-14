@@ -1,4 +1,4 @@
-CDG Match-two game
+CDG Match-two
 How to use it: 
 1) make sure that you have Node installed.js and npm.
 
